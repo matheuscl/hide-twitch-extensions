@@ -2,7 +2,7 @@
 Just hide Twitch.tv exntensions...
 
 # Installation
-It'll avaliable on Chrome Web Store soon
+It'll avaliable on Chrome Web Store and Firefox Add-ons soon
 
 # Any question?
 Feel free to open a issue
